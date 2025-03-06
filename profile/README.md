@@ -1,7 +1,7 @@
 
-# Zindex Dashboard
+# Zindex Discord Bot
 
-Het dashboard voor de **zindex** discord bot!
+De github pagina voor de **zindex** discord bot!
 
 
 
